@@ -1,7 +1,7 @@
 # Cinematic Studio-Level Different Camera Settings
 
 ## Repository
-https://github.com/Zh567-hue/Cinematic-camera-settings-in-Blender/new/main
+https://github.com/Zh567-hue/Cinematic-camera-settings-in-Blender
 
 ## Description
 A Python-driven toolset for digital arts students and filmmakers. It includes a Blender add-on that builds a clean camera rig with cinematic aspect presets, framing/letterbox guides, depth-of-field helper, and motion operators (dolly, crane, orbit). A simple Python CLI manages JSON shot presets and exports the add-on.
