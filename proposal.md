@@ -7,17 +7,17 @@ https://github.com/Zh567-hue/Cinematic-camera-settings-in-Blender/new/main
 A Python-driven toolset for digital arts students and filmmakers. It includes a Blender add-on that builds a clean camera rig with cinematic aspect presets, framing/letterbox guides, depth-of-field helper, and motion operators (dolly, crane, orbit). A simple Python CLI manages JSON shot presets and exports the add-on.
 
 ## Features
-- **Cinematic Presets**
+ **Cinematic Presets**
   - One-click aspect/focal/f-stop presets (2.39, 1.85, 16:9).
-- **Camera Rig Generator**
+ **Camera Rig Generator**
   - Auto-creates a tidy hierarchy: root → dolly → crane → pan/tilt → camera.
-- **Framing Guides**
+ **Framing Guides**
   - Quick letterbox matte switch for scope preview.
-- **Motion Operators**
+ **Motion Operators**
   - Dolly, crane, and orbit by exact meters/degrees.
-- **DOF Helper**
+ **DOF Helper**
   - Sets camera focus to the active object.
-- **CLI Planner**
+ **CLI Planner**
   - `project.py` lists/adds/removes presets and exports the Blender add-on file.
 
 ## Challenges
