@@ -1,18 +1,12 @@
-
-# csl_cinematography_camera_pack.py
-# Cinematic Studio-Level Different Camera Settings — Camera Pack
-# Blender 4.4.3–safe: no bpy.context access at import/register; guards in operators.
-# Panel in N-Panel → "CSL Cam".
-#
-# Features
-# - One-click "Build Camera Pack" (Master/Medium/CU/ExtremeCU/OTS L/R/POV/Insert/Tracking/Crane)
-# - Auto Focus Empty (all cameras Track To and DOF focus)
-# - Adjustable settings: sensor, aspect, resY, focal, f-stop, exposure, FPS
-# - Quick lens buttons
-# - Apply Settings to Active/All Pack cameras
-# - Letterbox ON/OFF (preview mask via render border)
-# - Set Active Camera (use selected)
-# - Quiet mode: try/except wraps scene writes to avoid red errors; info/warning toasts instead
+# what this add-on does (plain steps):
+# 1) give me a panel in the N-Panel called "CSL Cam".
+# 2) when I press "Build Camera Pack", make a new collection, drop a Focus empty,
+#    and auto-create practical film shots (Master, Medium, CU, Extreme CU, OTS L/R, POV, Insert, Tracking, Crane).
+# 3) name cameras with readable tokens (aspect + focal) and aim them at the Focus empty.
+# 4) expose simple settings (aspect, res height, sensor, focal, f-stop, exposure, fps).
+# 5) let me apply settings to the active camera or the whole pack in one click.
+# 6) provide quick focal buttons (18–135 mm) and a preview letterbox toggle.
+# 7) register/unregister cleanly and store UI properties on the Scene.
 
 bl_info = {
     "name": "CSL Cinematography Camera Pack",
