@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Scope_239_40mm",
+    "aspect": 2.39,
+    "focal_mm": 40,
+    "sensor_mm": "36x24",
+    "shutter_deg": 180,
+    "fstop": 2.8
+  },
+  {
+    "name": "Feature_185_35mm",
+    "aspect": 1.85,
+    "focal_mm": 35,
+    "sensor_mm": "36x24",
+    "shutter_deg": 180,
+    "fstop": 4.0
+  }
+]
