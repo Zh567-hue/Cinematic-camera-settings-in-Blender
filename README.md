@@ -1,4 +1,4 @@
-# Cinematic Studio‑Level Different Camera Settings (CSL) — Blender Add‑on
+# Cinematic Studio‑Level Different Camera Settings (CSL) - Blender Add‑on
 
 Hi, I’m Zhina. This project is my final for Programming for Digital Artists. I built a small tool I actually need for **Keep Going**: a Blender add‑on that drops in a clean camera pack and lets me switch professional framing, lenses, and scene output quickly without digging through menus.
 
