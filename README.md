@@ -24,20 +24,20 @@ During look‑dev and blocking I keep changing lenses, aspect ratios, and output
 
 ## Features
 - **One‑click Camera Pack**
-  - Builds a `CSL_Cameras` collection with: Master, Medium, Close‑Up, Extreme CU, OTS (L/R), POV, Insert, Tracking, Crane.
-  - Adds a **Focus Empty** that all cameras track to (also used for DOF).
+   Builds a `CSL_Cameras` collection with: Master, Medium, Close‑Up, Extreme CU, OTS (L/R), POV, Insert, Tracking, Crane.
+   Adds a **Focus Empty** that all cameras track to (also used for DOF).
 - **Fast Scene Output**
-  - Aspect presets (2.39, 1.85, 16:9, etc.), resolution height → auto width, optional FPS set.
-  - Filmic view transform + exposure slider.
+   Aspect presets (2.39, 1.85, 16:9, etc.), resolution height → auto width, optional FPS set.
+   Filmic view transform + exposure slider.
 - **Lens & DOF Controls**
-  - Sensor presets (Full‑Frame, S35, etc.), focal length, f/stop.
-  - Quick focal buttons (18–135mm).
+   Sensor presets (Full‑Frame, S35, etc.), focal length, f/stop.
+   Quick focal buttons (18–135mm).
 - **Apply Anywhere**
-  - Apply to **Active** camera or **All Pack** cameras in a click.
+   Apply to **Active** camera or **All Pack** cameras in a click.
 - **Letterbox Preview**
-  - Toggle a non‑destructive matte using render border for quick framing checks.
+   Toggle a non‑destructive matte using render border for quick framing checks.
 - **N‑Panel UI**
-  - `View3D ▸ Sidebar (N) ▸ CSL Cam`
+   `View3D ▸ Sidebar (N) ▸ CSL Cam`
 
 ---
 
