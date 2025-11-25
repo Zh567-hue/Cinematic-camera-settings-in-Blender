@@ -102,7 +102,7 @@ Expected checks:
 - New collection with the named cameras.
 - Scene resolution matches your Aspect & Res Height.
 - Cameras track the focus empty; DOF uses it automatically.
-- No red error toasts — the add‑on guards scene writes safely.
+- No red error toasts - the add‑on guards scene writes safely.
 
 ---
 
