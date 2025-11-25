@@ -13,7 +13,7 @@ GitHub Repo: https://github.com/Zh567-hue/Cinematic-camera-settings-in-Blender
 ---
 
 ## What this does 
-Create ready‑to‑shoot cameras (Master/Medium/CU/OTS/POV/etc.), set sensor/aspect/FPS/DOF fast, and preview letterbox — all from the N‑panel.
+Create ready‑to‑shoot cameras (Master/Medium/CU/OTS/POV/etc.), set sensor/aspect/FPS/DOF fast, and preview letterbox - all from the N‑panel.
 
 ---
 
